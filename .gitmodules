@@ -1,3 +1,7 @@
 [submodule "SETS"]
-    path = SETS
-    url = https://github.com/Aurora-Engineering/SETS.git
+	path = SETS
+	url = https://github.com/Aurora-Engineering/SETS.git
+[submodule "ccsdspy"]
+	path = ccsdspy
+	url = https://github.com/CCSDSPy/ccsdspy.git
+
